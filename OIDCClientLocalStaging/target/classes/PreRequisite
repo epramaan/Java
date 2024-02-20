@@ -1,0 +1,6 @@
+Create new database named as "oidc".
+Create new table "oidc_integration" with 4 columns
+a) code_verifier
+b) nonce
+c) stateId
+d) timestamp
